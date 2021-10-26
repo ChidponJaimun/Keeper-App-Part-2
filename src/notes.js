@@ -22,5 +22,13 @@ const notes = [
     title: "Hardware vs. Software",
     content:
       "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
+  },
+  {
+    key: 5,
+    title: "Testing",
+    content:
+      "What's the difference between testing and playing? You play for fun in playing, but you will be serious on testing."
   }
 ];
+
+export default notes;
